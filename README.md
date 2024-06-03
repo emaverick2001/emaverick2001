@@ -1,14 +1,4 @@
-<p align="center">
-    <a href="https://emaverick2001.github.io/">
-      <img src="https://media0.giphy.com/media/4NgFCBUHleihKnUdAW/giphy.gif" alt="MasterHead">
-    </a>
-</p>
-
-<h1 align="center">Hi 👋🏽, I'm Maverick Espinosa</h1>
-
 <p align="left"> <a href="https://twitter.com/maverickespdev" target="blank"><img src="https://img.shields.io/twitter/follow/maverickespdev?logo=twitter&style=for-the-badge" alt="maverickespdev" /></a> </p>
-
-- 🧑🏽‍💻 Software Engineer sharing about my journey and learnings in tech
 
 - 👨🏽‍🎓 Studying [Computer Science](https://www.jhu.edu/) at the Johns Hopkins University
 
