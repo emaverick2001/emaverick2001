@@ -2,7 +2,7 @@
 
 - 👨🏽‍🎓 Studying [Computer Science](https://www.jhu.edu/) at the Johns Hopkins University
 
-- 🔭 Currently working on [Quest2Learn](https://q2l.app/) , Oratio
+- 🔭 Currently working on [Quest2Learn](https://q2l.app/) , VisualScore
 
 - 🌱 I’m currently learning **React** **Tensorflow** **SciKitLearn**
 
