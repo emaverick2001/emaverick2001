@@ -20,12 +20,12 @@
 <a href="https://linkedin.com/in/maverick-espinosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maverick-espinosa" height="30" width="40" /></a>
 <a href="https://twitter.com/maverickespdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maverickespdev" height="30" width="40" /></a>
 <a href="https://instagram.com/maverickespinosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maverickespinosa" height="30" width="40" /></a>
-<a href="https://medium.com/@aayushgandhi2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aayushgandhi2001" height="30" width="40" /></a>
+<a href="https://medium.com/@emaverick2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emaverick2001" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/maverickespdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="maverickespdev" height="30" width="40" /></a>
 <a href="https://kaggle.com/maverickespinosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="maverickespinosa" height="30" width="40" /></a>
 <a href="https://www.behance.net/maverick espinosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="maverick espinosa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/maverickcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maverickcodes" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/emaverick2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="agandhi6" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/emaverick2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emaverick2001" height="30" width="40" /></a>
 </p>
 
 ## 💻 Languages & Tools:
