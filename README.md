@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **[emaverick2001\@gmail.com](mailto:emaverick2001@gmail.com?subject=Hey!)**
 
-- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1FATDRfV7FhmmWxOKpy4QAUz0GqwYlu7q/view?usp=sharing)**
+- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1484PLEg495DTnkEhGBevy6i_q1gDFsXb/view?usp=sharing)**
 
 ## 🤝🏼 Connect With Me:
 <p align="left">
