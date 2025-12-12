@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Maverick Espinosa</h1>
-<div align="center">
-<img src="https://github.com/user-attachments/assets/828fd46a-0aea-4224-bdb0-9a19f045b99e"
-     alt="Maverick Espinosa" style="width: 300px;"/>
-</div>
-
      
 <h3 align="center">I am a Software Engineer at CPCR, a research laboratory working to advance the scientific understanding of psychedelics and their potential for treating mental health disorders, enhancing well-being, and expanding our understanding of consciousness. Additionally, I am a recent graduate from The Johns Hopkins University with a BS in computer science and am in the process of completing my ms in computer science at UIUC. I am proficient in Python and React JS/React Native frameworks. I am extremely passionate about the fields of Biomolecular sciences and Software Engineering, and interested in working on projects that intersect the two. Im also passionate about music production and am experimenting with custom tools (JUCE)</h3>
 <p align="center">
